@@ -1,0 +1,5 @@
+colorama
+pyngrok
+shutil
+discordwebhook
+opencv-python
