@@ -1,6 +1,10 @@
 # Soul Console
 Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting
 
+**!!DISCLAIMER!!**
+I AM IN NO WAY RESPONSIBLE FOR YOUR ACTIONS REGARDING THESE PROGRAMS AND DO NOT ASSUME ANY RESPONSIBILITY FOR THEM!
+THIS PROGRAM AND ITS SUB-PROGRAMS WERE DESIGNED WITH EDUCATION IN MIND!!
+I DO NOT ENCOURAGE OR ENDORSE IN ANY WAY SHAPE OR FORM ILLEGAL ACTIONS, OR ACTIONS WHICH HARM OR AFFECT OTHERS DEVICES, PHYSICAL STATE OR OTHERWISE!
 
 Python Reqs
 >python 3.6+
@@ -51,3 +55,5 @@ Open SoulMain.py
 Select the option based on your targets OS
 Navigate to /dist
 Send the given file(s) to your target!
+
+
