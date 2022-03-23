@@ -1,5 +1,7 @@
 # Soul Console
 Soul Console: A simple backdoor console (3 options) to start pentesting and experimenting
+Windows/Debian only!
+if there are any suggestions or edits feel free to let me know! or if you want to help develop a mac version let me know as well!
 
 **!!DISCLAIMER!!**
 I AM IN NO WAY RESPONSIBLE FOR YOUR ACTIONS REGARDING THESE PROGRAMS AND DO NOT ASSUME ANY RESPONSIBILITY FOR THEM!
